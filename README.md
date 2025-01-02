@@ -1,1 +1,1 @@
-# netloom
+# Wordpress Theme - netloom
